@@ -1,5 +1,7 @@
 from django.urls import path
-from . import views, webhooks
+
+from . import webhooks
+from . import views
 
 app_name = 'payment'
 
