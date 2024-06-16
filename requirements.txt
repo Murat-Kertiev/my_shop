@@ -5,4 +5,8 @@ Pillow==9.2.0
 flower==1.2.0
 celery==5.2.7
 stripe==4.0.2
-WeasyPrint
+WeasyPrint==56.1
+redis==4.3.4
+django-rosetta==0.9.8
+django-parler==2.3
+django-localflavor==3.1
